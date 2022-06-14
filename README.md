@@ -2,8 +2,7 @@
  
 <h1>Course Cataline</h1>
 
-<p>I develop in this project a backend API using the adonisJS framework
-</p>
+<p>I developed in this project a backend API using the adonisJS framework</p>
 
 ### Features:
 
