@@ -15,6 +15,7 @@
 * [JavaScript] - (https://www.w3schools.com/js/js_es6.asp)
 * [TypeScript] - (https://www.typescriptlang.org/)
 * [SQL] - (https://www.mysql.com/)
+* [Insomnia] - (https://insomnia.rest/)
 
 ### Course:
 
